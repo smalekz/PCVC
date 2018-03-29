@@ -12,3 +12,15 @@ This dataset contains of 23 Persian consonants and 6 vowels. The sound samples a
 Phoneme List in PCVC dataset:
 https://github.com/S-Malek/PCVC/blob/master/PhonemeList.JPG
 
+
+## How to use
+### Matlab
+All files are ".mat" files. ".mat" is a fromat for data files in Matlab. Every file consists of a matrix with dimensions 1*23*6*30000 in which 23 is refer to number of consonant, 6 is refer to number of vowel and 30000 is the length of sound sample. order of phonemes are just like shown in https://github.com/S-Malek/PCVC/blob/master/PhonemeList.JPG. To use it, just open the file and tap on "finish" button to import the data in workspace of Matlab.
+
+### Python
+To use ".mat" data files in Python you can use the code below to copy the matrix in the file in "aud" variable. Every file consists of a matrix with dimensions 1*23*6*30000 in which 23 is refer to number of consonant, 6 is refer to number of vowel and 30000 is the length of sound sample. order of phonemes are just like shown in https://github.com/S-Malek/PCVC/blob/master/PhonemeList.JPG.
+
+import scipy.io
+mat = scipy.io.loadmat('MyPath/S1.mat')
+aud=(mat['aud'])
+
