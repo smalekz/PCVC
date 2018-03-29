@@ -24,3 +24,5 @@ import scipy.io
 mat = scipy.io.loadmat('MyPath/S1.mat')  
 aud=(mat['aud'])
 ```
+If you want to use this dataset please reference to this paper:  
+Saber MalekzadeH, Mohammad Hossein Gholizadeh, Seyed Naser Razavi “Full Persian Vowel recognition with MFCC and ANN on PCVC speech dataset” 5th International conference of electrical engineering, computer science and information technology, Iran, Tehran, 2018.
