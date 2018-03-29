@@ -22,6 +22,7 @@ All files are ".mat" files. ".mat" is a fromat for data files in Matlab. Every f
 ### Python
 To use ".mat" data files in Python you can use the code below to copy the matrix in the file in "aud" variable (Put your current path instead of "MyPath"). Every file consists of a matrix with dimensions 1*23*6*30000 in which 23 is refer to number of consonant, 6 is refer to number of vowel and 30000 is the length of sound sample. order of phonemes are just like shown in [Here](https://github.com/S-Malek/PCVC/blob/master/PhonemeList.JPG).
 ```
+# For example for S1 sample:
 import urllib.request as urllib2
 matfile = urllib2.urlopen("https://raw.githubusercontent.com/S-Malek/PCVC/master/Samples/S1.mat")
 with open('Speaker1.mat','wb') as output:
