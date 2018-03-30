@@ -9,7 +9,7 @@ If you have any idea or time or file to help us grow this, Please Contact us at:
 URL: http://SMalek.blog.ir ("Contact" Side bar)
 
 ## What it is
-This dataset contains of 23 Persian consonants and 6 vowels. The sound samples are all possible combinations of vowels and consonants (138 samples for each speaker). The sample rate of all speech samples is 48000 which means there are 48000 sound samples in every 1 second. Every sound sample is 276 seconds(138 two seconds samples). In each 2s sample, in average, 0.5 second of each sample is speech and the rest is silence. In every sound sample 0.25s of start and 0.25s of end of it is surely scilence. Also in each 2s first consonant phoneme pronounced and then vowel is.  
+This dataset contains of 23 Persian consonants and 6 vowels. The sound samples are all possible combinations of vowels and consonants (138 samples for each speaker). The sample rate of all speech samples is 48000 which means there are 48000 sound samples in every 1 second. Every sound sample is 276 seconds(138 two seconds samples). In each 2s sample, in average, 0.5 second of each sample is speech and the rest is silence. In each sound sample 0.25s of start and 0.25s of end of it is surely scilence. Also in each 2s first consonant phoneme pronounced and then vowel is.  
   
 All of sound samples are denoised with "Adaptive noise reduction" algorithm.
 
