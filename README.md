@@ -18,6 +18,7 @@ Phoneme List in PCVC dataset:
 
 
 ## How to use
+Each files contains just a matrix "x".
 ### Matlab
 All files are ".mat" files. ".mat" is a fromat for data files in Matlab. Every file consists of a matrix with dimensions 1*23*6*30000 in which 23 is refer to number of consonant, 6 is refer to number of vowel and 30000 is the length of sound sample. order of phonemes are just like shown in [Here](https://github.com/S-Malek/PCVC/blob/master/PhonemeList.JPG). To use it, just open the file and tap on "finish" button to import the data in workspace of Matlab.
 
