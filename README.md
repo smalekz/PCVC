@@ -35,7 +35,7 @@ with open('Speaker1.mat','wb') as output:
 # Reading it from current directory and putting the matrix of it in "aud" variable
 import scipy.io  
 mat = scipy.io.loadmat('Speaker1.mat')  
-aud=(mat['aud'])
+aud=(mat['x'])
 ```
 ### Git
 for downloading all together to current directory with git:
