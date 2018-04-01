@@ -37,7 +37,7 @@ mat = scipy.io.loadmat('Speaker1.mat')
 aud=(mat['aud'])
 ```
 ### Git
-or for downloading all together to current directory with git:
+for downloading all together to current directory with git:
 ```
 git clone https://github.com/S-Malek/PCVC
 ```
