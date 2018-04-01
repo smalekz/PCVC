@@ -36,6 +36,11 @@ import scipy.io
 mat = scipy.io.loadmat('Speaker1.mat')  
 aud=(mat['aud'])
 ```
+or for downloading all together:
+```
+git clone https://github.com/S-Malek/PCVC
+ls PCVC/Samples
+```
 
 ## Acknowledgement
 So many thanks to those helped us to develop PCVC dataset especially speakers: Farideh Jabraili, Hedayat Malekzadeh, Hamed
