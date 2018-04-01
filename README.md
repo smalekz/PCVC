@@ -10,6 +10,7 @@ URL: http://SMalek.blog.ir ("Contact" Side bar)
 
 ## What it is
 This dataset contains of 23 Persian consonants and 6 vowels. The sound samples are all possible combinations of vowels and consonants (138 samples for each speaker) with a length of 30000 data samples. The sample rate of all speech samples is 48000 which means there are 48000 sound samples in every 1 second. In each sample, sound starts with consonant and then there is a vowel sound and at last there is silent. length of silence is dependent on length of combination of consonant and vowel. For example if combination ends in 20000th data sample, so the rest of 10000 sample (untill 30000, the length of each sound sample) are silence.   
+
 ![alt text](https://github.com/S-Malek/PCVC/blob/master/Images/SoundSample.png?raw=true)  
 
 All of sound samples are denoised with "Adaptive noise reduction" algorithm.
