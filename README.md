@@ -4,7 +4,7 @@ If you want to use this dataset please reference to this paper:
 [Saber MalekzadeH, Mohammad Hossein Gholizadeh, Seyed Naser Razavi “Full Persian Vowel recognition with MFCC and ANN on PCVC speech dataset” 5th International conference of electrical engineering, computer science and information technology, Iran, Tehran, 2018.](https://scholar.google.com/citations?user=AVMa3t0AAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DAVMa3t0AAAAJ%26citation_for_view%3DAVMa3t0AAAAJ%3AIjCSPb-OGe4C%26tzom%3D-270) ([PDF](http://bayanbox.ir/download/2723849504007807268/Full-Persian-Vowel-recognition-with-MFCC-and-ANN-on-PCVC-speech-dataset.pdf))
 
 ## About
-This dataset is the first phoneme based speech dataset in the entire world and also the first free Persian speech dataset to help Persian speech researchers. It is not only what you see. It is growing. To be contineud...  
+This dataset is the first phoneme based speech dataset in the entire world and also the first free Persian speech dataset to help Persian speech researchers. It is not only what you see. It is growing. To be continued...  
 If you have any idea or time or file to help us grow this, Please Contact us at:  
 URL: http://SMalek.blog.ir ("Contact" Side bar)
 
