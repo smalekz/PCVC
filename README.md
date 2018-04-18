@@ -3,11 +3,13 @@
 If you want to use this dataset please reference to this paper:  
 [Saber MalekzadeH, Mohammad Hossein Gholizadeh, Seyed Naser Razavi “Full Persian Vowel recognition with MFCC and ANN on PCVC speech dataset” 5th International conference of electrical engineering, computer science and information technology, Iran, Tehran, 2018.](https://scholar.google.com/citations?user=AVMa3t0AAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DAVMa3t0AAAAJ%26citation_for_view%3DAVMa3t0AAAAJ%3AIjCSPb-OGe4C%26tzom%3D-270) ([PDF](http://bayanbox.ir/download/2723849504007807268/Full-Persian-Vowel-recognition-with-MFCC-and-ANN-on-PCVC-speech-dataset.pdf))
 
-## About
-This dataset is the first phoneme based speech dataset in the entire world and also the first free Persian speech dataset to help Persian speech researchers. It is not only what you see. It is growing. To be continued...  
-If you have any idea or time or file to help us grow this, Please Contact us at:  
+The dataset is for sale. You can get ir for 50$.  
+If you want to buy or have any idea or time or file to help us grow this, Please Contact us at:  
 URL: http://SMalek.blog.ir ("Contact" Side bar)
 
+
+## About
+This dataset is the first phoneme based speech dataset in the entire world and also the first free Persian speech dataset to help Persian speech researchers. It is not only what you see. It is growing. To be continued...  
 ## What it is
 This dataset contains of 23 Persian consonants and 6 vowels. The sound samples are all possible combinations of vowels and consonants (138 samples for each speaker) with a length of 30000 data samples. The sample rate of all speech samples is 48000 which means there are 48000 sound samples in every 1 second. In each sample, sound starts with consonant and then there is a vowel sound and at last there is silent. length of silence is dependent on length of combination of consonant and vowel. For example if combination ends in 20000th data sample, so the rest of 10000 sample (untill 30000, the length of each sound sample) are silence.   
 
