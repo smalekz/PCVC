@@ -30,7 +30,7 @@ To use ".mat" data files in Python you can use the code below to copy the matrix
 ```
 # For example for S1 sample (Reading from source and writing it as "Speaker1.mat" in your current directory):
 import urllib.request as urllib2
-matfile = urllib2.urlopen("https://raw.githubusercontent.com/S-Malek/PCVC/master/Samples/S1.mat")
+matfile = urllib2.urlopen("https://raw.githubusercontent.com/S-Malek/PCVC/master/Samples/S0001.mat")
 with open('Speaker1.mat','wb') as output:
   output.write(matfile.read())
 ```
